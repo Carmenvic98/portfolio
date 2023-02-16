@@ -27,5 +27,39 @@
     left: 470px;
     top: 140px;
     color: #FFFFFF;
-    width: 700px;
+    width: 600px;
+}
+
+h1{
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-size: 40px;
+    line-height: 97px;
+}
+
+.name{
+    font-family: 'Great Vibes';
+    font-style: normal;
+    font-size: 70px;
+    line-height: 97px;
+}
+
+h2{
+    font-family: 'Jacques Francois';
+}
+
+p{
+    font-family: 'Jacques Francois';
+    font-size: 17px;
+    line-height: 40px;
+}
+
+.btn_cv{
+    background: #1A0B2E;
+    padding: 10px 15px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Jacques Francois';
+    font-size: 18px;
+    margin-left: 50px;
 }
